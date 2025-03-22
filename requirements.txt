@@ -1,0 +1,4 @@
+mcp==1.1.2
+openai==1.60.0
+python-dotenv==1.0.1
+mcp-server-fetch==2025.1.17

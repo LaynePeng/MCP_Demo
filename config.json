@@ -1,0 +1,27 @@
+{
+  "_model": "DeepSeek-V3",
+  "_api_key": "<API_KEY>",
+  "_base_url": "<MODEL_URL>",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "api_key": "<API_KEY>",
+  "base_url": "https://api.siliconflow.cn/v1",
+  "system_prompt": "You are a helpful assistant capable of accessing external tools and providing informative answers. Engage in a natural, friendly manner while using available tools for real-time information retrieval.\n\n# Tools\n{tools}\n\n# Notes\n- Responses should be based on the latest available data.\n- Maintain an engaging and friendly tone.\n- Highlight the usefulness of tools in assisting users comprehensively.",
+  "mcp_servers": [
+    {
+      "name": "Time",
+      "command": "python",
+      "args": [
+        "c:/codes/MCP_Demo/mcp_server_time/server.py", "--local-timezone", "Asia/Shanghai"
+      ],
+      "env": null
+    },
+    {
+      "name": "Fetch",
+      "command": "python",
+      "args": [
+        "-m", "mcp_server_fetch"
+      ],
+      "env": null
+    }
+  ]
+}
