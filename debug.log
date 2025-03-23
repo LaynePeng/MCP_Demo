@@ -1,0 +1,327 @@
+2025-03-23 18:35:27,617 DEBUG Using proactor: IocpProactor
+2025-03-23 18:35:27,619 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:35:27,629 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:35:27,629 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:35:27,638 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:35:27,639 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000209B4121D90>
+2025-03-23 18:35:27,639 INFO Processing request of type ListToolsRequest
+2025-03-23 18:35:27,639 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:35:27,639 DEBUG Listing tools...
+2025-03-23 18:35:27,640 DEBUG Response sent
+2025-03-23 18:35:56,540 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000209B416BDA0>
+2025-03-23 18:35:56,541 INFO Processing request of type ListToolsRequest
+2025-03-23 18:35:56,541 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:35:56,541 DEBUG Listing tools...
+2025-03-23 18:35:56,541 DEBUG Response sent
+2025-03-23 18:35:56,543 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000209B40EEC90>
+2025-03-23 18:35:56,543 INFO Processing request of type ListToolsRequest
+2025-03-23 18:35:56,543 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:35:56,543 DEBUG Listing tools...
+2025-03-23 18:35:56,543 DEBUG Response sent
+2025-03-23 18:39:34,588 DEBUG Using proactor: IocpProactor
+2025-03-23 18:39:34,588 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:39:34,593 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:39:34,593 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:39:34,605 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:39:34,605 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000014448541940>
+2025-03-23 18:39:34,605 INFO Processing request of type ListToolsRequest
+2025-03-23 18:39:34,605 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:39:34,605 DEBUG Listing tools...
+2025-03-23 18:39:34,605 DEBUG Response sent
+2025-03-23 18:39:46,022 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000014448939460>
+2025-03-23 18:39:46,022 INFO Processing request of type ListToolsRequest
+2025-03-23 18:39:46,022 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:39:46,023 DEBUG Listing tools...
+2025-03-23 18:39:46,023 DEBUG Response sent
+2025-03-23 18:39:46,024 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000144486A87A0>
+2025-03-23 18:39:46,024 INFO Processing request of type ListToolsRequest
+2025-03-23 18:39:46,024 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:39:46,024 DEBUG Listing tools...
+2025-03-23 18:39:46,024 DEBUG Response sent
+2025-03-23 18:39:47,074 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001444876F5C0>
+2025-03-23 18:39:47,074 INFO Processing request of type CallToolRequest
+2025-03-23 18:39:47,074 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:39:47,074 DEBUG A calling tools is come...
+2025-03-23 18:39:47,074 DEBUG Calling get current time...
+2025-03-23 18:39:47,074 DEBUG In the real get time function...
+2025-03-23 18:39:47,074 DEBUG Response sent
+2025-03-23 18:40:20,043 DEBUG Using proactor: IocpProactor
+2025-03-23 18:40:20,045 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:40:20,049 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:40:20,049 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:40:20,058 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:40:20,059 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000021D23DD6D80>
+2025-03-23 18:40:20,059 INFO Processing request of type ListToolsRequest
+2025-03-23 18:40:20,059 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:40:20,059 DEBUG Listing tools...
+2025-03-23 18:40:20,059 DEBUG Response sent
+2025-03-23 18:40:26,291 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000021D23C9B950>
+2025-03-23 18:40:26,291 INFO Processing request of type ListToolsRequest
+2025-03-23 18:40:26,291 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:40:26,291 DEBUG Listing tools...
+2025-03-23 18:40:26,293 DEBUG Response sent
+2025-03-23 18:40:26,293 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000021D23DD7020>
+2025-03-23 18:40:26,293 INFO Processing request of type ListToolsRequest
+2025-03-23 18:40:26,293 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:40:26,293 DEBUG Listing tools...
+2025-03-23 18:40:26,293 DEBUG Response sent
+2025-03-23 18:42:26,820 DEBUG Using proactor: IocpProactor
+2025-03-23 18:42:26,821 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:42:26,825 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:42:26,825 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:42:26,833 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:42:26,833 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000217B8BB1940>
+2025-03-23 18:42:26,833 INFO Processing request of type ListToolsRequest
+2025-03-23 18:42:26,833 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:42:26,833 DEBUG Listing tools...
+2025-03-23 18:42:26,833 DEBUG Response sent
+2025-03-23 18:42:36,291 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000217B8F9B0E0>
+2025-03-23 18:42:36,291 INFO Processing request of type ListToolsRequest
+2025-03-23 18:42:36,292 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:42:36,292 DEBUG Listing tools...
+2025-03-23 18:42:36,293 DEBUG Response sent
+2025-03-23 18:42:36,294 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000217B8E2B440>
+2025-03-23 18:42:36,294 INFO Processing request of type ListToolsRequest
+2025-03-23 18:42:36,294 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:42:36,294 DEBUG Listing tools...
+2025-03-23 18:42:36,294 DEBUG Response sent
+2025-03-23 18:42:39,090 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000217B8975040>
+2025-03-23 18:42:39,090 INFO Processing request of type CallToolRequest
+2025-03-23 18:42:39,090 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:42:39,090 DEBUG A calling tools is come...
+2025-03-23 18:42:39,094 DEBUG Calling get current time...
+2025-03-23 18:42:39,094 DEBUG In the real get time function...
+2025-03-23 18:42:39,094 DEBUG Response sent
+2025-03-23 18:43:01,133 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000217B8D36900>
+2025-03-23 18:43:01,133 INFO Processing request of type CallToolRequest
+2025-03-23 18:43:01,135 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:43:01,135 DEBUG A calling tools is come...
+2025-03-23 18:43:01,135 DEBUG Calling get current time...
+2025-03-23 18:43:01,135 DEBUG In the real get time function...
+2025-03-23 18:43:01,137 DEBUG Response sent
+2025-03-23 18:44:11,928 DEBUG Using proactor: IocpProactor
+2025-03-23 18:44:11,928 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:44:11,932 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:44:11,932 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:44:11,941 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:44:11,945 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000019CF4877530>
+2025-03-23 18:44:11,945 INFO Processing request of type ListToolsRequest
+2025-03-23 18:44:11,945 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:44:11,945 DEBUG Listing tools...
+2025-03-23 18:44:11,945 DEBUG Response sent
+2025-03-23 18:46:17,789 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000019CF48450A0>
+2025-03-23 18:46:17,790 INFO Processing request of type ListToolsRequest
+2025-03-23 18:46:17,790 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:46:17,790 DEBUG Listing tools...
+2025-03-23 18:46:17,790 DEBUG Response sent
+2025-03-23 18:46:17,791 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000019CF4877920>
+2025-03-23 18:46:17,791 INFO Processing request of type ListToolsRequest
+2025-03-23 18:46:17,791 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:46:17,791 DEBUG Listing tools...
+2025-03-23 18:46:17,791 DEBUG Response sent
+2025-03-23 18:49:07,813 DEBUG Using proactor: IocpProactor
+2025-03-23 18:49:07,815 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:49:07,818 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:49:07,818 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:49:07,827 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:49:07,828 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000015578827170>
+2025-03-23 18:49:07,828 INFO Processing request of type ListToolsRequest
+2025-03-23 18:49:07,828 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:49:07,828 DEBUG Listing tools...
+2025-03-23 18:49:07,829 DEBUG Response sent
+2025-03-23 18:49:16,881 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000155787B6DB0>
+2025-03-23 18:49:16,881 INFO Processing request of type ListToolsRequest
+2025-03-23 18:49:16,882 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:49:16,882 DEBUG Listing tools...
+2025-03-23 18:49:16,882 DEBUG Response sent
+2025-03-23 18:49:16,884 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000015578115340>
+2025-03-23 18:49:16,884 INFO Processing request of type ListToolsRequest
+2025-03-23 18:49:16,884 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:49:16,884 DEBUG Listing tools...
+2025-03-23 18:49:16,884 DEBUG Response sent
+2025-03-23 18:49:48,116 DEBUG Using proactor: IocpProactor
+2025-03-23 18:49:48,118 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:49:48,118 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:49:48,118 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:49:48,130 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:49:48,130 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000020616787200>
+2025-03-23 18:49:48,130 INFO Processing request of type ListToolsRequest
+2025-03-23 18:49:48,130 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:49:48,130 DEBUG Listing tools...
+2025-03-23 18:49:48,130 DEBUG Response sent
+2025-03-23 18:50:18,338 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000206166A2C60>
+2025-03-23 18:50:18,340 INFO Processing request of type ListToolsRequest
+2025-03-23 18:50:18,340 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:50:18,340 DEBUG Listing tools...
+2025-03-23 18:50:18,340 DEBUG Response sent
+2025-03-23 18:50:18,340 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000020616787590>
+2025-03-23 18:50:18,340 INFO Processing request of type ListToolsRequest
+2025-03-23 18:50:18,340 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:50:18,340 DEBUG Listing tools...
+2025-03-23 18:50:18,340 DEBUG Response sent
+2025-03-23 18:52:47,664 DEBUG Using proactor: IocpProactor
+2025-03-23 18:52:47,668 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:52:47,672 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:52:47,672 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:52:47,681 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:52:47,681 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000027315197620>
+2025-03-23 18:52:47,681 INFO Processing request of type ListToolsRequest
+2025-03-23 18:52:47,681 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:52:47,681 DEBUG Listing tools...
+2025-03-23 18:52:47,681 DEBUG Response sent
+2025-03-23 18:52:50,877 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000027314D81CD0>
+2025-03-23 18:52:50,878 INFO Processing request of type ListToolsRequest
+2025-03-23 18:52:50,878 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:52:50,878 DEBUG Listing tools...
+2025-03-23 18:52:50,878 DEBUG Response sent
+2025-03-23 18:52:50,880 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x00000273151D5850>
+2025-03-23 18:52:50,880 INFO Processing request of type ListToolsRequest
+2025-03-23 18:52:50,881 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:52:50,881 DEBUG Listing tools...
+2025-03-23 18:52:50,881 DEBUG Response sent
+2025-03-23 18:53:36,392 DEBUG Using proactor: IocpProactor
+2025-03-23 18:53:36,397 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:53:36,401 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:53:36,401 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:53:36,409 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:53:36,409 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000024FEFEE7200>
+2025-03-23 18:53:36,409 INFO Processing request of type ListToolsRequest
+2025-03-23 18:53:36,409 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:53:36,409 DEBUG Listing tools...
+2025-03-23 18:53:36,409 DEBUG Response sent
+2025-03-23 18:53:40,287 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000024FEFE02C60>
+2025-03-23 18:53:40,287 INFO Processing request of type ListToolsRequest
+2025-03-23 18:53:40,287 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:53:40,287 DEBUG Listing tools...
+2025-03-23 18:53:40,287 DEBUG Response sent
+2025-03-23 18:53:40,289 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000024FEFEE7590>
+2025-03-23 18:53:40,289 INFO Processing request of type ListToolsRequest
+2025-03-23 18:53:40,289 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:53:40,289 DEBUG Listing tools...
+2025-03-23 18:53:40,289 DEBUG Response sent
+2025-03-23 18:54:19,099 DEBUG Using proactor: IocpProactor
+2025-03-23 18:54:19,104 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:54:19,109 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:54:19,109 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:54:19,119 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:54:19,119 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001B33F356DE0>
+2025-03-23 18:54:19,119 INFO Processing request of type ListToolsRequest
+2025-03-23 18:54:19,119 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:54:19,120 DEBUG Listing tools...
+2025-03-23 18:54:19,120 DEBUG Response sent
+2025-03-23 18:54:21,822 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001B33F73B110>
+2025-03-23 18:54:21,822 INFO Processing request of type ListToolsRequest
+2025-03-23 18:54:21,822 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:54:21,822 DEBUG Listing tools...
+2025-03-23 18:54:21,826 DEBUG Response sent
+2025-03-23 18:54:21,826 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001B33F59F500>
+2025-03-23 18:54:21,826 INFO Processing request of type ListToolsRequest
+2025-03-23 18:54:21,826 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:54:21,826 DEBUG Listing tools...
+2025-03-23 18:54:21,826 DEBUG Response sent
+2025-03-23 18:56:50,959 DEBUG Using proactor: IocpProactor
+2025-03-23 18:56:50,963 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:56:50,967 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:56:50,967 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:56:50,975 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:56:50,975 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000002096CD71D90>
+2025-03-23 18:56:50,975 INFO Processing request of type ListToolsRequest
+2025-03-23 18:56:50,975 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:56:50,975 DEBUG Listing tools...
+2025-03-23 18:56:50,975 DEBUG Response sent
+2025-03-23 18:56:55,933 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000002096CDBA990>
+2025-03-23 18:56:55,933 INFO Processing request of type ListToolsRequest
+2025-03-23 18:56:55,933 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:56:55,933 DEBUG Listing tools...
+2025-03-23 18:56:55,933 DEBUG Response sent
+2025-03-23 18:56:55,933 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000002096CCEB950>
+2025-03-23 18:56:55,933 INFO Processing request of type ListToolsRequest
+2025-03-23 18:56:55,933 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:56:55,933 DEBUG Listing tools...
+2025-03-23 18:56:55,933 DEBUG Response sent
+2025-03-23 18:57:23,137 DEBUG Using proactor: IocpProactor
+2025-03-23 18:57:23,140 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:57:23,141 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:57:23,141 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:57:23,153 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:57:23,153 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001AD792874D0>
+2025-03-23 18:57:23,153 INFO Processing request of type ListToolsRequest
+2025-03-23 18:57:23,153 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:57:23,153 DEBUG Listing tools...
+2025-03-23 18:57:23,153 DEBUG Response sent
+2025-03-23 18:57:27,214 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001AD79287770>
+2025-03-23 18:57:27,214 INFO Processing request of type ListToolsRequest
+2025-03-23 18:57:27,214 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:57:27,214 DEBUG Listing tools...
+2025-03-23 18:57:27,214 DEBUG Response sent
+2025-03-23 18:57:27,218 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001AD791ABFE0>
+2025-03-23 18:57:27,218 INFO Processing request of type ListToolsRequest
+2025-03-23 18:57:27,218 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:57:27,218 DEBUG Listing tools...
+2025-03-23 18:57:27,218 DEBUG Response sent
+2025-03-23 18:58:18,194 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001AD790EB440>
+2025-03-23 18:58:18,194 INFO Processing request of type CallToolRequest
+2025-03-23 18:58:18,194 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:58:18,194 DEBUG A calling tools is come...
+2025-03-23 18:58:18,194 DEBUG Calling get current time...
+2025-03-23 18:58:18,194 DEBUG In the real get time function...
+2025-03-23 18:58:18,194 DEBUG Response sent
+2025-03-23 18:58:32,972 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001AD792141D0>
+2025-03-23 18:58:32,972 INFO Processing request of type CallToolRequest
+2025-03-23 18:58:32,972 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:58:32,972 DEBUG A calling tools is come...
+2025-03-23 18:58:32,972 DEBUG Calling get current time...
+2025-03-23 18:58:32,972 DEBUG In the real get time function...
+2025-03-23 18:58:32,972 DEBUG Response sent
+2025-03-23 18:59:18,879 DEBUG Using proactor: IocpProactor
+2025-03-23 18:59:18,880 DEBUG Initializing server 'mcp-time'
+2025-03-23 18:59:18,885 DEBUG Registering handler for ListToolsRequest
+2025-03-23 18:59:18,885 DEBUG Registering handler for CallToolRequest
+2025-03-23 18:59:18,894 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 18:59:18,894 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001C0F4227290>
+2025-03-23 18:59:18,894 INFO Processing request of type ListToolsRequest
+2025-03-23 18:59:18,894 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:59:18,894 DEBUG Listing tools...
+2025-03-23 18:59:18,894 DEBUG Response sent
+2025-03-23 18:59:29,849 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001C0F414B110>
+2025-03-23 18:59:29,849 INFO Processing request of type ListToolsRequest
+2025-03-23 18:59:29,849 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:59:29,849 DEBUG Listing tools...
+2025-03-23 18:59:29,850 DEBUG Response sent
+2025-03-23 18:59:29,851 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001C0F3F06900>
+2025-03-23 18:59:29,851 INFO Processing request of type ListToolsRequest
+2025-03-23 18:59:29,851 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 18:59:29,851 DEBUG Listing tools...
+2025-03-23 18:59:29,851 DEBUG Response sent
+2025-03-23 18:59:33,082 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x000001C0F3FDB440>
+2025-03-23 18:59:33,082 INFO Processing request of type CallToolRequest
+2025-03-23 18:59:33,082 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 18:59:33,082 DEBUG A calling tools is come...
+2025-03-23 18:59:33,086 DEBUG Response sent
+2025-03-23 19:02:38,725 DEBUG Using proactor: IocpProactor
+2025-03-23 19:02:38,726 DEBUG Initializing server 'mcp-time'
+2025-03-23 19:02:38,727 DEBUG Registering handler for ListToolsRequest
+2025-03-23 19:02:38,727 DEBUG Registering handler for CallToolRequest
+2025-03-23 19:02:38,740 DEBUG Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-23 19:02:38,740 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000023F69D51940>
+2025-03-23 19:02:38,740 INFO Processing request of type ListToolsRequest
+2025-03-23 19:02:38,740 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 19:02:38,740 DEBUG Listing tools...
+2025-03-23 19:02:38,740 DEBUG Response sent
+2025-03-23 19:02:44,981 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000023F6A0F9460>
+2025-03-23 19:02:44,982 INFO Processing request of type ListToolsRequest
+2025-03-23 19:02:44,982 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 19:02:44,982 DEBUG Listing tools...
+2025-03-23 19:02:44,982 DEBUG Response sent
+2025-03-23 19:02:44,984 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000023F69EA87A0>
+2025-03-23 19:02:44,984 INFO Processing request of type ListToolsRequest
+2025-03-23 19:02:44,984 DEBUG Dispatching request of type ListToolsRequest
+2025-03-23 19:02:44,984 DEBUG Listing tools...
+2025-03-23 19:02:44,984 DEBUG Response sent
+2025-03-23 19:02:45,966 DEBUG Received message: <mcp.shared.session.RequestResponder object at 0x0000023F6A0FAF30>
+2025-03-23 19:02:45,966 INFO Processing request of type CallToolRequest
+2025-03-23 19:02:45,966 DEBUG Dispatching request of type CallToolRequest
+2025-03-23 19:02:45,966 DEBUG A calling tools is come...
+2025-03-23 19:02:45,966 DEBUG Calling get current time...
+2025-03-23 19:02:45,970 DEBUG In the real get time function...
+2025-03-23 19:02:45,970 DEBUG Response sent

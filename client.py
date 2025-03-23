@@ -17,6 +17,8 @@ API_KEY = config["api_key"]
 BASE_URL = config["base_url"]
 SYSTEM_PROMPT = config["system_prompt"]
 MCP_SERVERS = config['mcp_servers']
+TEMPERATURE = config['temperature']
+MAX_TOKEN = config['max_tokens']
 
 client = AsyncOpenAI(api_key=API_KEY, base_url=BASE_URL)
 server_map = {}
@@ -90,10 +92,10 @@ class MCPClient:
 
         response = await self.llm.chat.completions.create(
             model=MODEL,
-            max_tokens=512,
+            max_tokens=MAX_TOKEN,
             messages=messages,
             tools=self.available_tools,
-            temperature=0, 
+            temperature=TEMPERATURE, 
         )
 
         # Process response and handle tool calls
@@ -122,9 +124,9 @@ class MCPClient:
 
                 response = await self.llm.chat.completions.create(
                     model=MODEL,
-                    max_tokens=512,
+                    max_tokens=MAX_TOKEN,
                     messages=messages,
-                    temperature=0, 
+                    temperature=TEMPERATURE, 
                 )
 
         final_text.append(response.choices[0].message.content)
